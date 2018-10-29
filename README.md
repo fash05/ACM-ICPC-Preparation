@@ -1,4 +1,4 @@
-![ACM-ICPC](https://github.com/NAU-ACM/ACM-ICPC-Preparation/blob/master/acm_icpc_prep.jpg "ACM-ICPC")
+!!!!!!!!!!!!!!!!!!![ACM-ICPC](https://github.com/NAU-ACM/ACM-ICPC-Preparation/blob/master/acm_icpc_prep.jpg "ACM-ICPC")
 
 # ACM-ICPC Preparation 
 ![](https://img.shields.io/badge/NAU-in%20progress-blue.svg) ![](https://img.shields.io/badge/licence-MIT-green.svg) ![](https://img.shields.io/badge/Weeks%20Completed-8%2F20-orange.svg)
